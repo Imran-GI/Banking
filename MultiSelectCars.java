@@ -37,6 +37,7 @@ public class MultiSelectCars {
 	  Thread.sleep(3000);
 	  ColorSelect.deselectByVisibleText("Opel");
 	System.out.println("For Git");
+	System.out.println("For Git");
 	  
   }
   @BeforeMethod
